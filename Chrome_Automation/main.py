@@ -6,35 +6,7 @@ def webauto ():
         "youtube.com",
         "facebook.com",
         "wikipedia.org",
-        "facebook.com",
-        "google.com",
-        "youtube.com",
-        "facebook.com",
-        "wikipedia.org",
-        "facebook.com",
-        "google.com",
-        "youtube.com",
-        "facebook.com",
-        "wikipedia.org",
-        "facebook.com",
-        "google.com",
-        "youtube.com",
-        "facebook.com",
-        "wikipedia.org",
-        "facebook.com",
-        "google.com",
-        "youtube.com",
-        "facebook.com",
-        "wikipedia.org",
-        "facebook.com",
-        "google.com",
-        "youtube.com",
-        "facebook.com",
-        "wikipedia.org",
-        "facebook.com",
         "google.com"
-
-
     )
 
     for url in URLS:
